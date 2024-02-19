@@ -79,7 +79,6 @@ prioritization, and customer satisfaction efforts, ultimately guiding our strate
 I have completed an enriching internship focused on data analysis and Tableau dashboard creation, contributing valuable
 insights to inform strategic business decisions.
 ```
-[Tata Forage.pdf](https://github.com/MitKalariya01/Tata_Virtual_Work/files/12771173/Tata.Forage.pdf)
 ```
 Mit Kalariya
 Thank You
